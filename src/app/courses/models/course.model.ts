@@ -4,7 +4,7 @@ export class Course implements CourseInterface {
   constructor(
     public id: number,
     public title: string,
-    public creation: Date,
+    public creation: number,
     public duration: number,
     public description: string
   ) {}

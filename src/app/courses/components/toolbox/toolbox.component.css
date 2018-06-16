@@ -1,0 +1,19 @@
+.toolbox-wr {
+  border: 1px solid black;
+  padding: 20px;
+}
+.toolbox {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-wr {
+  display: flex;
+}
+
+.btn-add-course {
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
